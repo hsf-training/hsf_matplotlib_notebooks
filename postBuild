@@ -1,0 +1,3 @@
+wget -q -O data/samples_FilterGem_mc_363490.llll.root https://github.com/Marchela04/Cap4-Matplotlib/raw/main/samples_FilterGem_mc_363490.llll.root
+
+# wget -q -O samples_FilterGem_mc_363490.llll.root https://gitlab.cern.ch/gfidalgo/My-first-binder/-/raw/6f20c8da0d5101a2346ac2ae5c1f9ae5d38cda67/samples_FilterGem_mc_363490.llll.root
