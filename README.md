@@ -4,6 +4,9 @@ Jupyter notebooks for the HSF matplotlib tutorial
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plttraining/hsf_matplotlib_notebooks/main)
 
+# Open in SWAN
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/plttraining/hsf_matplotlib_notebooks.git)
+
 # Open in Google Colab
 
 Each notebook should have a Google Colab button at the top so that you can try running the material. (You must have a google account for this to work)
