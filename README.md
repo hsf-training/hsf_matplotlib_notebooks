@@ -15,4 +15,4 @@ You could also download an Add-on to your browser (Google Chrome or Firefox) :
 - Search for "Open in Colab" as an Extension
 - Download and install
 - Go to the Github Repository, open the notebook
-- Click on the Extension at the top of your broswer to open in Google Colab.
+- Click on the Extension at the top of your browser to open in Google Colab.
