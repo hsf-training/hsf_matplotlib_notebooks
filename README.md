@@ -2,6 +2,11 @@
 
 Jupyter notebooks for the [HSF matplotlib tutorial](https://hsf-training.github.io/hsf-training-matplotlib/) ([source repository](https://github.com/hsf-training/hsf-training-matplotlib/)).
 
+> **Warning**
+> It's not clear how we continue to maintain or use the notebooks in this repository, see
+> https://github.com/hsf-training/hsf-training-matplotlib/issues/66.
+> All changes should go to https://github.com/hsf-training/hsf-training-matplotlib/.
+
 # Open in Binder
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plttraining/hsf_matplotlib_notebooks/main)
