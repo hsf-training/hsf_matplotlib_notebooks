@@ -9,10 +9,10 @@ Jupyter notebooks for the [HSF matplotlib tutorial](https://hsf-training.github.
 
 # Open in Binder
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/plttraining/hsf_matplotlib_notebooks/main)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hsf-training/hsf_matplotlib_notebooks/main)
 
 # Open in SWAN
-[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/plttraining/hsf_matplotlib_notebooks.git)
+[![SWAN](https://swan.web.cern.ch/sites/swan.web.cern.ch/files/pictures/open_in_swan.svg)](https://cern.ch/swanserver/cgi-bin/go?projurl=https://github.com/hsf-training/hsf_matplotlib_notebooks.git)
 
 # Open in Google Colab
 

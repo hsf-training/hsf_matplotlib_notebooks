@@ -1,9 +1,1 @@
-numpy
-awkward
-uproot
-matplotlib
-scipy
-pandas
-hist
-mplhep
-h5py
+binder/requirements.txt
