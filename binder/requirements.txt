@@ -1,8 +1,6 @@
 numpy
-awkward
 uproot
 matplotlib
-scipy
 pandas
 hist
 mplhep
